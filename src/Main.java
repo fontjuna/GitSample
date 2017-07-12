@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello!");
         System.out.println("1st edit");
         System.out.println("2nd edit");
+        System.out.println("merged");
     }
 }
